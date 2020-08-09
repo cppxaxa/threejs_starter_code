@@ -9,7 +9,7 @@ The html canvas connected to a threejs starter code with OrbiterControl configur
 
 # Screenshot
 
-![Snap001](Screenshot.jpg)
+![Snap001](Snap001.jpg)
 
 # References
 
