@@ -6,3 +6,11 @@ The html canvas connected to a threejs starter code with OrbiterControl configur
 
 1. npm watch available
 2. npm webpack binaries available
+
+# Screenshot
+
+![Snap001](Screenshot.jpg)
+
+# References
+
+1. https://observablehq.com/@bumbeishvili/three-js-inertion
